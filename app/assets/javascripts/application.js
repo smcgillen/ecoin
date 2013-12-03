@@ -16,4 +16,5 @@
 //= require 'merchant_morris.js'
 //= require 'morris.js'
 //= require 'auth.js'
+//= require 'jquery.burn.js'
 
